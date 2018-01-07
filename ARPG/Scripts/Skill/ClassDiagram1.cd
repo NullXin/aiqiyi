@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ARPGDemo.Character.CharacterInputController">
+    <Position X="1" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgARAAAAAEAAAABCAEgAAAAAAAAAAAIAQAAAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\Character\CharacterInputController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARPGDemo.Skill.CharacterSkillManager">
+    <Position X="4.25" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAABAAACAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEIAA=</HashCode>
+      <FileName>Assets\Scripts\Skill\CharacterSkillManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARPGDemo.Skill.SkillDeployer">
+    <Position X="7.25" Y="0.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAIACAAAAAAAAAAACAAAoAAAAAIAAAAICAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Skill\Deployer\SkillDeployer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

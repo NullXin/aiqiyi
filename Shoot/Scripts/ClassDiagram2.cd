@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tarena.Lansquenet.SpawnSystem">
+    <Position X="0.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAEAAAAAAAAACAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\SpawnSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarena.Lansquenet.SpawnTrigger">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\SpawnTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarena.Lansquenet.EnemySpawn">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAAAACAAAQgAAAAACAAAAQAAAAgAAAgAAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy\EnemySpawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.FSM.BaseFSM">
+    <Position X="7" Y="0.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQQAAABEEAAAgAAAIABAAAgEBEEATAAEAQACAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\FSM\BaseFSM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.FSM.PathfindingState">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAQAAAAAAAAAAICAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\FSM\States\PathfindingState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AI.FSM.AttackingState">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAQAIgAAACAAAICAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\FSM\States\AttackingState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

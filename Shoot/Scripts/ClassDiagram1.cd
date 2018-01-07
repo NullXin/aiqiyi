@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PcSingleGunControl">
+    <Position X="0.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Player\GunControl\PcSingleGunControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarena.Lansquenet.Gun">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IQAAAkAAAAAAAAAAAIAAAAAAEgAAEAAAgQAAgAAAAGA=</HashCode>
+      <FileName>Assets\Scripts\Weapon\Gun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarena.Lansquenet.Bullet" Collapsed="true">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAwAAAAIGAAAAkAABAQAAAAAAAAAAAEAgAECAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\Weapon\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarena.Lansquenet.EnemyBullet">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Weapon\EnemyBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarena.Lansquenet.PlayerBullet">
+    <Position X="7.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Weapon\PlayerBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarena.Lansquenet.HtcSingleGunControl" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Player\GunControl\HtcSingleGunControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GunControl" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAABAAAAAAAAAAAACIABAAAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\Player\GunControl\GunControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tarena.Lansquenet.HtcGunControl" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAQAAAAAAAAAACAAAAAAAIAQAAAAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\Player\GunControl\HtcGunControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
